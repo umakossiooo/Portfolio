@@ -69,14 +69,14 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/ptprashanttripathi">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+				<a href="https://github.com/umakossiooo">
+					<sub><b>Uma Umaña</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
-			<a href="https://github.com/ptprashanttripathi">
+			<a href="https://github.com/umakossiooo">
 				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
 			</a>
 		</td>
@@ -96,5 +96,5 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
 <hr>
 <p align="center">  
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in Mexico MX
 </p>

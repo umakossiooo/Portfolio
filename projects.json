@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Vedic Language",
+        "description": "A project focused on creating tools for the Vedic language."
+    },
+    {
+        "name": "Bhagavad Gita API",
+        "description": "An API for accessing Bhagavad Gita scriptures programmatically."
+    },
+    {
+        "name": "Portfolio Tracker",
+        "description": "A tool to track and manage your portfolio efficiently."
+    },
+    {
+        "name": "IPL 2020 Prediction",
+        "description": "A machine learning project to predict IPL 2020 match outcomes."
+    },
+    {
+        "name": "LinkPe",
+        "description": "A URL shortener and link management tool."
+    }
+]
