@@ -1,27 +1,27 @@
 [
-    {
-        "nombre": "Peiix Master",
-        "descripcion": "Prototipo de aplicación móvil para la gestión de terminales de punto de venta (POS) y transacciones orientado a negocios pequeños y medianos. Participé en la implementación de funcionalidades clave como autenticación de usuarios, filtrado de datos por fechas y categorías, y exportación de información en formatos CSV y PDF. La aplicación fue desarrollada con React Native y Expo en el frontend, y Node.js con Express en el backend, siguiendo una arquitectura MVVM que permite escalabilidad y separación de responsabilidades.",
-        "imagen": "https://peiix.com/img/TERMINAL-INICIO.png"
-    },
-    {
-        "nombre": "Logística LTC",
-        "descripcion": "Desarrollé un simulador de rutas logísticas para la empresa LTC Logistics, cuyo objetivo era reducir costos operativos y mejorar los tiempos de entrega. El sistema integra algoritmos de toma de decisiones que optimizan rutas basadas en múltiples variables como tráfico, distancia y consumo de combustible. Usé Unity para la simulación visual, Flask para la lógica del servidor y MongoDB para almacenar datos geoespaciales. El sistema logró una mejora del 30% en la eficiencia de entrega y fue utilizado como herramienta de análisis estratégico por el equipo logístico.",
-        "imagen": "https://logisticaltc.com/images/logo-ltc-4.png"
-    },
-    {
-        "nombre": "Encora HR Management",
-        "descripcion": "Aplicación web creada para optimizar la gestión de recursos humanos en Encora Inc., facilitando la administración de empleados y postulantes a vacantes internas. La plataforma, desarrollada con TypeScript, ReactJS, NodeJS y Express, permite la creación y edición de perfiles, asignación a proyectos y evaluación de candidatos. Fui responsable de liderar el desarrollo del módulo de datos, asegurando una integración eficiente y segura entre el frontend y el backend. Se implementaron buenas prácticas de diseño para lograr una plataforma escalable y fácil de mantener.",
-        "imagen": "https://media.glassdoor.com/sqll/2974657/encora-squareLogo-1620862444786.png"
-    },
-    {
-        "nombre": "Greenhouse IoT",
-        "descripcion": "Proyecto de automatización de invernadero utilizando tecnologías IoT para controlar variables ambientales como humedad, temperatura, riego, luz solar y calidad del aire. Implementé sensores conectados a un microcontrolador NodeMCU ESP8266 y utilicé MQTT como protocolo de comunicación segura entre los dispositivos y el sistema de control. Desarrollé un dashboard interactivo para la visualización de datos en tiempo real, permitiendo al usuario monitorear y ajustar condiciones desde una plataforma web. El sistema ayudó a optimizar el uso de recursos en áreas desérticas y agrícolas.",
-        "imagen": "https://content.instructables.com/FL7/RKSF/JWB4DAA9/FL7RKSFJWB4DAA9.jpg?auto=webp&crop=1.2%3A1&frame=1&width=270"
-    },
-    {
-        "nombre": "Análisis SARS-CoV-2",
-        "descripcion": "Proyecto de biología computacional enfocado en el análisis genético del SARS-CoV-2 y sus variantes. Desarrollé un programa en R para leer, analizar y visualizar secuencias genómicas de distintos países, interpretando la estabilidad genética y relaciones evolutivas entre variantes. Se utilizaron herramientas de visualización como gráficos de árbol filogenético y métricas de similitud genética. Este análisis ayudó a comprender la evolución del virus durante diferentes oleadas de la pandemia y fortaleció mis habilidades en ciencia de datos y programación bioinformática.",
-        "imagen": "https://agqlabs.es/wp-content/uploads/Analisis-de-coronavirus-SARS-CoV-2-Covid-19.jpg"
-    }
+  {
+    "name": "Peiix Master",
+    "description": "Prototype of a mobile application for managing point-of-sale (POS) terminals and transactions aimed at small and medium-sized businesses. I participated in the implementation of key features such as user authentication, data filtering by date and category, and exporting information to CSV and PDF formats. The application was developed using React Native and Expo on the frontend, and Node.js with Express on the backend, following an MVVM architecture that enables scalability and separation of concerns.",
+    "image": "https://peiix.com/img/TERMINAL-INICIO.png"
+  },
+  {
+    "name": "Logistics LTC",
+    "description": "I developed a logistics route simulator for LTC Logistics, aimed at reducing operational costs and improving delivery times. The system integrates decision-making algorithms that optimize routes based on multiple variables such as traffic, distance, and fuel consumption. I used Unity for visual simulation, Flask for the server-side logic, and MongoDB to store geospatial data. The system achieved a 30% improvement in delivery efficiency and was used as a strategic analysis tool by the logistics team.",
+    "image": "https://logisticaltc.com/images/logo-ltc-4.png"
+  },
+  {
+    "name": "Encora HR Management",
+    "description": "Web application created to optimize human resources management at Encora Inc., facilitating the administration of employees and applicants for internal positions. The platform, developed with TypeScript, ReactJS, NodeJS, and Express, allows the creation and editing of profiles, project assignments, and candidate evaluations. I led the development of the data module, ensuring efficient and secure integration between the frontend and backend. Design best practices were implemented to achieve a scalable and maintainable platform.",
+    "image": "https://media.glassdoor.com/sqll/2974657/encora-squareLogo-1620862444786.png"
+  },
+  {
+    "name": "Greenhouse IoT",
+    "description": "Greenhouse automation project using IoT technologies to control environmental variables such as humidity, temperature, irrigation, sunlight, and air quality. I implemented sensors connected to a NodeMCU ESP8266 microcontroller and used MQTT as a secure communication protocol between devices and the control system. I developed an interactive dashboard for real-time data visualization, allowing users to monitor and adjust conditions from a web platform. The system helped optimize resource use in desert and agricultural areas.",
+    "image": "https://content.instructables.com/FL7/RKSF/JWB4DAA9/FL7RKSFJWB4DAA9.jpg?auto=webp&crop=1.2%3A1&frame=1&width=270"
+  },
+  {
+    "name": "SARS-CoV-2 Analysis",
+    "description": "Computational biology project focused on the genetic analysis of SARS-CoV-2 and its variants. I developed a program in R to read, analyze, and visualize genomic sequences from different countries, interpreting genetic stability and evolutionary relationships among variants. Visualization tools such as phylogenetic tree charts and genetic similarity metrics were used. This analysis helped to understand the evolution of the virus during different waves of the pandemic and strengthened my skills in data science and bioinformatics programming.",
+    "image": "https://agqlabs.es/wp-content/uploads/Analisis-de-coronavirus-SARS-CoV-2-Covid-19.jpg"
+  }
 ]
