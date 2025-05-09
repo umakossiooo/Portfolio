@@ -3,7 +3,7 @@ const fetchAndRenderProjects = async () =>
 {
   try
   {
-    const response = await fetch("http://localhost:8000/projects.json"); // Fetch the JSON file
+    const response = await fetch("projects.json"); // Use a relative path
     const projects = await response.json(); // Parse the JSON data
 
     let output = "";

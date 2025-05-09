@@ -641,7 +641,7 @@ p {
 
 .interest-sec .mdl-card span {
   display: block;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-top: 25px;
 }
 
@@ -684,7 +684,7 @@ p {
 .blog-sec .mdl-card .blog-cat {
   display: block;
   font-size: 14px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .blog-sec .mdl-card .mdl-button--fab {
