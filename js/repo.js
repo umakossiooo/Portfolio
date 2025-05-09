@@ -13,11 +13,11 @@ const fetchAndRenderProjects = async () =>
         <div class="col-sm-4 mb-40">
           <div class="mdl-card mdl-shadow--2dp pa-0 repo-card">
             <div class="mdl-card__media">
-              <img src="${project.image}" alt="${project.name}" class="project-image" />
+              <img src="${project.imagen}" alt="${project.nombre}" class="project-image" />
             </div>
             <div class="mdl-card__supporting-text relative">
-              <h4 class="mt-15 mb-20">${project.name}</h4>
-              <p>${project.description}</p>
+              <h4 class="mt-15 mb-20">${project.nombre}</h4>
+              <p>${project.descripcion}</p>
             </div>
           </div>
         </div>
