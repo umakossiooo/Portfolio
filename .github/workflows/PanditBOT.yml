@@ -34,8 +34,8 @@ jobs:
           python sitemap.py
       - name: Git push
         run: |
-          git config user.name PtPrashantTripathi
-          git config user.email ptprashanttripathi@outlook.com
+          git config user.name umakossiooo
+          git config user.email umakossiooo@outlook.com
           git add .
           git commit -m "[PanditBot] Updating Repos Data $(date +%Y-%m-%d_%H-%M-%S)"
           git push --quiet
